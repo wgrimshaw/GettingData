@@ -2,23 +2,15 @@
 *.ipynb_checkpoints
 
 #Ignore script outputs
-data/NCWaterData.csv
-WaterData
-StreamCat
-OtherNotebooks/NCDEQ
+#data/NCWaterData.csv
+#WaterData
+#StreamCat
+#OtherNotebooks/NCDEQ
 
 map.jpg
 tl_2017_38_tract.zip
 tl_2017_38_tract/*
-LNDCVR*/*
-NHD*/*
+
 *.zip
 Happiness.csv
 
-ArcGISAPI/apidoc
-ArcGISAPI/guide
-ArcGISAPI/labs
-ArcGISAPI/samples
-ArcGISAPI/Sandbox
-ArcGISAPI/static
-ArcGISAPI/talks
