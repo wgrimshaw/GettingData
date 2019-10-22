@@ -1,7 +1,7 @@
 ---
 Title: "Automating Data Download with Python"
 Author: "John Fay"
-Date: "Fall 2018"
+Date: "Fall 2019"
 ---
 
 # Getting Data
